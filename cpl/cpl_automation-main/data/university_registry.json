@@ -1,0 +1,13 @@
+{
+  "Skyline Higher Education Australia": "https://shea.edu.au",
+  "Victoria University": {
+    "bachelor": "https://www.vu.edu.au/courses/bachelor-of-information-technology-professional-nbip",
+    "master": "https://www.vu.edu.au/courses/master-of-applied-information-technology-nmit"
+  },
+  "Australian Catholic University": "https://www.acu.edu.au",
+  "RMIT University": "https://www.rmit.edu.au",
+  "Macquarie University": "https://www.mq.edu.au",
+  "University of Western Australia": "https://www.uwa.edu.au",
+  "Torrens University Australia": "https://www.torrens.edu.au",
+  "Victorian Institute of Technology": "https://vit.edu.au"
+}

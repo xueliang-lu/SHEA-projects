@@ -1,0 +1,10 @@
+{
+  "student_id": "STU-1003",
+  "decision": "rejected",
+  "recommended_credits": [],
+  "confidence": 0.24,
+  "evidence": [
+    "No mapped competency evidence",
+    "No referee verification attached"
+  ]
+}

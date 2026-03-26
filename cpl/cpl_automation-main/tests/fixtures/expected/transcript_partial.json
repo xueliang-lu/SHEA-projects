@@ -1,0 +1,10 @@
+{
+  "student_id": "STU-1002",
+  "decision": "partial",
+  "recommended_credits": ["CPL101"],
+  "confidence": 0.68,
+  "evidence": [
+    "18 months as team trainer",
+    "Delivered onboarding workshops"
+  ]
+}

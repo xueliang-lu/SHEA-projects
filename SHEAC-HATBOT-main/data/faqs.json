@@ -1,0 +1,27 @@
+[
+    {
+        "question": "What is SheaBot?",
+        "answer": "SheaBot is an advanced AI chat application that combines the power of OpenAI's GPT-4o and Google's Gemini Flash. It features a RAG (Retrieval-Augmented Generation) system to provide accurate information based on your FAQ documents.",
+        "category": "General"
+    },
+    {
+        "question": "How do I switch between AI models?",
+        "answer": "You can switch between OpenAI and Gemini using the toggles located just above the message input field in the chat interface.",
+        "category": "Features"
+    },
+    {
+        "question": "How do I reset my password?",
+        "answer": "Click on 'Forgot password?' on the login screen. Enter your email address, and we'll send you a reset link. If you're already logged in, you can find this option in your account settings.",
+        "category": "Account"
+    },
+    {
+        "question": "Is my chat history saved?",
+        "answer": "Yes, all your conversations are saved to your account. You can access them from the sidebar on the left side of the chat interface.",
+        "category": "Conversations"
+    },
+    {
+        "question": "Can I edit or delete my messages?",
+        "answer": "Yes! Hover over any message you've sent to see the edit (pencil) and delete (trash) icons. Currently, only user messages can be edited.",
+        "category": "Features"
+    }
+]

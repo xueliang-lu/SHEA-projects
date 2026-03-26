@@ -1,0 +1,9 @@
+streamlit
+pandas
+scikit-learn
+pdfplumber
+PyMuPDF
+openpyxl
+reportlab
+# Optional for better matching quality:
+# sentence-transformers

@@ -1,0 +1,10 @@
+{
+  "student_id": "STU-1001",
+  "decision": "approved",
+  "recommended_credits": ["CPL101", "CPL203"],
+  "confidence": 0.92,
+  "evidence": [
+    "4 years as Youth Support Worker",
+    "Supervisor statement confirms advanced case management practice"
+  ]
+}
