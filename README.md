@@ -105,7 +105,7 @@ shea-projects/
 
 ## 👨‍💻 Author
 
-**Sunil Paudel**
+**Alex Lu**
 
 ---
 
